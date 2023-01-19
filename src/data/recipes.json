@@ -316,5 +316,44 @@
       "Leave it to marinate for 30minutes",
       "DEEP FRY AWAY!!!"
     ]
+  },
+  {
+    "id": 7,
+    "name": "っっっh",
+    "ingredient": [
+      {
+        "name": "だds",
+        "quantity": "1"
+      },
+      {
+        "name": "",
+        "quantity": ""
+      }
+    ],
+    "instruction": [
+      "w",
+      "q",
+      "q"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "k",
+    "ingredient": [
+      {
+        "name": "l",
+        "quantity": "k"
+      },
+      {
+        "name": "",
+        "quantity": ""
+      }
+    ],
+    "instruction": [
+      "lm",
+      "l",
+      "k",
+      "l"
+    ]
   }
 ]
